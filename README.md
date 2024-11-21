@@ -1,8 +1,4 @@
- # EX 2 CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-```
-NAME: Kumudhini T
-REG No: 212222040084
-```
+ # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
 
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
@@ -27,25 +23,23 @@ This experiment involves creating an AWS account, configuring security settings 
  ### Step 7:
  Review and Create IAM User</br>
 
+### REG NUMBER:212222040084
+### NAME: KUMUDHINI T
 
 ## OUTPUT
 
 ### ROOT USER:
-![Screenshot (114)](https://github.com/user-attachments/assets/5b23d35a-a27b-40bb-9ab7-69c0bf7d973b)
+![image](https://github.com/user-attachments/assets/c12802cb-22d1-4fdf-89a9-61bdc09d8dc5)
 
-![Screenshot (115)](https://github.com/user-attachments/assets/aae390fc-f162-4d36-aa45-d76283010f6e)
-
+![image](https://github.com/user-attachments/assets/be14c0fc-637a-4b28-82a3-b128916487d1)
 
  ### IAM USER:
- ![{5305B003-C9DF-4C2F-8091-F692028E2449}](https://github.com/user-attachments/assets/f5f23e89-5bfc-477e-8adf-151e0571e5b0)
+![image](https://github.com/user-attachments/assets/f3fca9df-efc2-4d5b-889b-e01c605fa6e1)
 
-![WhatsApp Image 2024-11-20 at 20 39 35_b859c5dc](https://github.com/user-attachments/assets/f48d980d-2079-4b81-a471-b976d97dcd9f)
-
-
-
-
+![image](https://github.com/user-attachments/assets/a9f6b479-503e-41fe-adf5-80de9761f855)
 
 ## RESULT
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account. 
 
   
+
